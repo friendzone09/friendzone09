@@ -17,6 +17,8 @@ class Developer:
 ```
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BA4F2&center=true&vCenter=true&width=500&lines=Backend+Developer;React+%2B+Flask;Always+Learning+New+Things" />
 
+# ⚡ Tecnologías
+
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=blue)
 
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
