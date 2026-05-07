@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**friendzone09/friendzone09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy friendzone09
 
-Here are some ideas to get you started:
+```python
+class Developer:
+    def __init__(self):
+        self.name = "friendzone09"
+        self.role = "Programador"
+        self.languages = ["Python", "JavaScript", "SQL"]
+        self.backend = ["Flask", "Node.js"]
+        self.frontend = ["React", "HTML", "CSS"]
+        self.database = ["PostgreSQL", "SQLite"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def build(self):
+        return "Creating cool stuff..."
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BA4F2&center=true&vCenter=true&width=500&lines=Backend+Developer;React+%2B+Flask;Always+Learning+New+Things" />
+
+    <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=friendzone09&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friendzone09&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:f97316&height=120&section=footer"/> </div> ```
